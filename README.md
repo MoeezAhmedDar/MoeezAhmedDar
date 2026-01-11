@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1500&color=6366F1&center=true&vCenter=true&width=800&lines=Hello!+I'm+Moeez;Full+Stack+Developer;Laravel+%26+PHP+Specialist" alt="Typing SVG - Full Stack Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&pause=1200&color=6366F1&center=true&vCenter=true&width=800&lines=Hello!+I'm+Moeez;Full+Stack+Developer;Laravel+%26+PHP+Specialist" alt="Typing SVG - Full Stack Developer" />
 </div>
 
 <br />
@@ -7,9 +7,9 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  I'm a dedicated developer with over three years of experience crafting reliable web applications using Laravel and PHP.  
-  I enjoy solving real business challenges through efficient, well-structured code — whether it's automating workflows, building real-time features, or creating powerful reporting systems.  
-  Recently completed my Master's in Artificial Intelligence, which has inspired me to explore smarter, data-driven solutions in software.
+  I'm a dedicated developer with over three years of experience creating reliable web applications using Laravel and PHP.  
+  I enjoy solving real business problems through efficient, well-organized code — from automating workflows to building real-time features and powerful reporting tools.  
+  Recently completed my Master's in Artificial Intelligence, which has deepened my interest in adding intelligent capabilities to software.
 </p>
 
 <br />
