@@ -14,10 +14,6 @@
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoeezAhmedDar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Moeez's GitHub Stats" width="48%" />
-</div>
-
 <br />
 
 <h2 align="center">Skills & Technologies</h2>
